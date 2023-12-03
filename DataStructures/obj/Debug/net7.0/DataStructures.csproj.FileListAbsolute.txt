@@ -1,0 +1,14 @@
+C:\Users\Jordan\Desktop\CSharpDataStructures\DataStructures\bin\Debug\net7.0\DataStructures.exe
+C:\Users\Jordan\Desktop\CSharpDataStructures\DataStructures\bin\Debug\net7.0\DataStructures.deps.json
+C:\Users\Jordan\Desktop\CSharpDataStructures\DataStructures\bin\Debug\net7.0\DataStructures.runtimeconfig.json
+C:\Users\Jordan\Desktop\CSharpDataStructures\DataStructures\bin\Debug\net7.0\DataStructures.dll
+C:\Users\Jordan\Desktop\CSharpDataStructures\DataStructures\bin\Debug\net7.0\DataStructures.pdb
+C:\Users\Jordan\Desktop\CSharpDataStructures\DataStructures\obj\Debug\net7.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordan\Desktop\CSharpDataStructures\DataStructures\obj\Debug\net7.0\DataStructures.AssemblyInfoInputs.cache
+C:\Users\Jordan\Desktop\CSharpDataStructures\DataStructures\obj\Debug\net7.0\DataStructures.AssemblyInfo.cs
+C:\Users\Jordan\Desktop\CSharpDataStructures\DataStructures\obj\Debug\net7.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Desktop\CSharpDataStructures\DataStructures\obj\Debug\net7.0\DataStructures.dll
+C:\Users\Jordan\Desktop\CSharpDataStructures\DataStructures\obj\Debug\net7.0\refint\DataStructures.dll
+C:\Users\Jordan\Desktop\CSharpDataStructures\DataStructures\obj\Debug\net7.0\DataStructures.pdb
+C:\Users\Jordan\Desktop\CSharpDataStructures\DataStructures\obj\Debug\net7.0\DataStructures.genruntimeconfig.cache
+C:\Users\Jordan\Desktop\CSharpDataStructures\DataStructures\obj\Debug\net7.0\ref\DataStructures.dll
